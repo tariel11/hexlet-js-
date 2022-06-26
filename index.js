@@ -1,1 +1,3 @@
-console.log("Helloo, im Tariel")
+import _ from "lodash";
+
+console.log(_.last(['one', 'two']));
